@@ -17,4 +17,6 @@ pip install jinja2
 
 
 ### START SERVICE
+```shell
 python weichatservice.py
+```
