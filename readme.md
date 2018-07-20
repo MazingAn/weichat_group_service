@@ -15,3 +15,6 @@ pip install mysqldb
 pip install jinja2
 ```
 
+
+### START SERVICE
+python weichatservice.py
